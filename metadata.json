@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard B3 — Cotações de Ações",
+  "description": "Acompanhamento em tempo real das cotações da B3 com gráficos, indicadores e status do pregão",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
